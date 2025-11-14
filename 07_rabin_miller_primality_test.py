@@ -1,4 +1,4 @@
-# 7.	Use the Robin-Miller algorithm to check whether the given number P is prime or not?  
+# 7.Use the Robin-Miller algorithm to check whether the given number P is prime or not?  
 
 import random
 
@@ -57,3 +57,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

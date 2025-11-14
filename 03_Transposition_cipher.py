@@ -1,4 +1,4 @@
-# 3.	Consider the plaintext 
+# 3.Consider the plaintext 
 # “DEPARTMENT OF COMPUTER SCIENCE AND TECHNOLOGY,
 #  find out the corresponding Transposition Cipher 
 #  (Take width as input). 
@@ -57,3 +57,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

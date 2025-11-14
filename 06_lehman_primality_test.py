@@ -1,7 +1,6 @@
-# 6.	
-# Use the Lehmann algorithm to check whether the given number 
+# 6. Use the Lehmann algorithm to check whether the given number 
 # P is prime or not?
-#pow(5,7,77) = 47 build in power function epeansion -
+# pow(5,7,77) = 47 build in power function epeansion -
 #  modular_exponentiation
 
 import random
@@ -50,3 +49,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

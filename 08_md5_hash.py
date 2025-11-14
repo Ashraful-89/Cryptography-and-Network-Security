@@ -1,4 +1,4 @@
-# 8.	Write a program to implement MD5 one way hash function.
+# 8.Write a program to implement MD5 one way hash function.
 
 import hashlib
 
@@ -25,3 +25,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

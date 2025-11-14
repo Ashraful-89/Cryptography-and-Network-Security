@@ -1,5 +1,4 @@
-
-# 4.	Find out corresponding double Transposition Cipher of the above plaintext. 
+# 4.Find out corresponding double Transposition Cipher of the above plaintext. 
 # Then perform the reverse operation to get original plaintext.
 
 import math
@@ -62,3 +61,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
